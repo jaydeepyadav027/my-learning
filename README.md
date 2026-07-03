@@ -1,18 +1,31 @@
-# My Learning Journey
+# 👋 Hi, I'm Jaydeep Yadav
 
-Hi, I'm Jaydeep Yadav from India.
+## About Me
+- 🇮🇳 From India
+- 🎓 College Student
+- 🤖 Learning Artificial Intelligence
+- 📚 Learning Japanese (Genki)
+- 💻 Learning Git & GitHub
+- 🌱 Improving my skills every day
 
-## Currently Learning
-- Artificial Intelligence (AI)
-- Git & GitHub
-- Japanese (Genki)
-- Programming
+## Microsoft Learn Progress
+- ✅ Introduction to AI Concepts
+- ✅ Introduction to Generative AI and Agents
+- ✅ Introduction to Natural Language Processing Concepts
+- ✅ Introduction to AI Speech Concepts
 
-## Goal
-I want to improve my skills every day and build useful projects.
+## Current Goals
+- Complete Microsoft Learn modules
+- Earn a Microsoft Applied Skill
+- Become a Microsoft Learn Student Ambassador
+- Build AI Projects
+- Improve my GitHub profile
 
-## Progress
-- ✅ Microsoft Learn: Introduction to AI Concepts
-- ✅ Microsoft Learn: Introduction to Generative AI and Agents
-- 🔄 Learning GitHub
-- 🔄 Learning Japanese
+## Skills
+- Git & GitHub (Beginner)
+- Microsoft Learn
+- AI Fundamentals
+- Japanese (Beginner)
+
+## Connect
+GitHub: @jaideepyadav027
