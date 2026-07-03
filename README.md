@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaydeep Yadav
+# 👋 Hi, I'm Jaydeep Yadav.
 
 ## About Me
 - 🇮🇳 From India
